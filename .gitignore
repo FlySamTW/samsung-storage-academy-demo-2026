@@ -1,0 +1,9 @@
+qa/
+__pycache__/
+*.pyc
+scan_images.py
+download_images.py
+qa_site.py
+.env
+.env.*
+*.log
